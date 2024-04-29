@@ -2,7 +2,7 @@
 Simple neovim config. It's not good, but works
   
 ## Installation
-- Clone repository in your neovim config folder
+- Clone this repository in your neovim config folder
 ```sh
 git clone https://github.com/wahyujulianto/nvim ~/.config/nvim
 ```
